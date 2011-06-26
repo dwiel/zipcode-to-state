@@ -1,0 +1,3 @@
+# Example
+
+Zipcode.zipcode_to_state('47404') => 'IN'
